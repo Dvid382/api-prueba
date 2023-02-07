@@ -2,7 +2,7 @@ export const dolar = {
     name: "Dolar",
     url: "https://monitordolarvenezuela.com/historico/bcv-banco-central-de-venezuela",
     selector:
-        "#tabla-diaria > div > div.col-9 > div:nth-child(2) > b:nth-child(3)",
+        "#PM",
 };
 
 export const uf = {
