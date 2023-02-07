@@ -1,8 +1,8 @@
 export const dolar = {
     name: "Dolar",
-    url: "https://www.bcv.org.ve/",
+    url: "https://monitordolarvenezuela.com/historico/bcv-banco-central-de-venezuela",
     selector:
-        "#dolar > div > div > div.col-sm-6.col-xs-6.centrado > strong",
+        "#tabla-diaria > div > div.col-9 > div:nth-child(2) > b:nth-child(3)",
 };
 
 export const uf = {
