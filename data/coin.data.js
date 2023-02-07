@@ -2,7 +2,7 @@ export const dolar = {
     name: "Dolar",
     url: "https://www.bcentral.cl/",
     selector:
-        "#dolar > div > div > div.col-sm-6.col-xs-6.centrado",
+        "#_BcentralIndicadoresViewer_INSTANCE_pLcePZ0Eybi8_myTooltipDelegate > div > div > div.fin-indicators-col1 > div > div > div:nth-child(3) > div > p.basic-text.fs-2.f-opensans-bold.text-center.c-blue-nb-2",
 };
 
 export const uf = {
