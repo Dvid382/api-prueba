@@ -1,0 +1,23 @@
+{
+  "name": "dolar",
+  "version": "1.0.0",
+  "description": "- [preview](https://api-dolar-kib9.onrender.com/)\r - [Consumida con Vue.js](https://public-api-dolar-uf-euro-bitcoin.netlify.app/)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
