@@ -1,8 +1,8 @@
 export const dolar = {
     name: "Dolar",
-    url: "https://www.bancodevenezuela.com/",
+    url: "https://www.bcv.org.ve/",
     selector:
-        "#mesa-cambio-bcv-dolar",
+        "#dolar > div > div > div.col-sm-6.col-xs-6.centrado > strong",
 };
 
 export const uf = {
